@@ -1,0 +1,13 @@
+{
+    "role": {
+        "name": "ROLE_SELECT_CONTAINER",
+        "schema_privileges": [
+            {
+                "privileges": [
+                    "SELECT",
+                    "SELECT METADATA"
+                ]
+            }
+        ]
+    }
+}
